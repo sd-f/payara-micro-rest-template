@@ -2,7 +2,7 @@
 
 ## Features
 
-Minimal payara micro rest application (template), for use in micro-services
+Minimal payara micro rest application (template), for micro-service use
 - payara maven plugin
 - EE 8
 - JAX-RS
